@@ -1,0 +1,30 @@
+Dream: scary
+Category: Nightmare
+
+Dream: i fell from a tree
+Category: Normal dream
+
+Dream: clear
+Category: Normal dream
+
+Dream: clear
+Category: Normal dream
+
+Dream:  python dream_analysis.py
+Category: Normal dream
+
+Dream: i was flying over mountains
+Category: Normal dream
+
+Dream: i was fly over mountain
+Category: Adventure dream
+
+Dream: i was flying over mountains
+Category: Normal dream
+
+Dream: i was flying over mountains
+Category: Adventure dream
+
+Dream: i kissed my boyfriend
+Category: Romantic dream
+
